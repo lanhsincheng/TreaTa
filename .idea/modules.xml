@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Treata-BT.iml" filepath="$PROJECT_DIR$/Treata-BT.iml" />
+      <module fileurl="file://C:\Users\Banser\AndroidStudioProjects\healta2\TreataTreata.iml" filepath="C:\Users\Banser\AndroidStudioProjects\healta2\TreataTreata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\ucer\AndroidStudioProjects\Treata-BT\app\app.iml" filepath="C:\Users\ucer\AndroidStudioProjects\Treata-BT\app\app.iml" />
+      <module fileurl="file://C:\Users\ucer\AndroidStudioProjects\Treata-BT\healta.iml" filepath="C:\Users\ucer\AndroidStudioProjects\Treata-BT\healta.iml" />
+    </modules>
+  </component>
+</project>
